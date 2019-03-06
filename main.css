@@ -5,3 +5,15 @@ body {
 .dinosaur {
     border: 2px solid burlywood;
 }
+
+.assignments {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
+h3 {
+    background-color: lightgray;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
